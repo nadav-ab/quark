@@ -8,7 +8,7 @@ const overrides = {
 		'kind': 'Icon',
 		'props': {
 			'color': '--white',
-			'background': 'none',
+			'background': 'red',
 			'user-select': 'none',
 			'cursor': 'pointer',
 			'position': 'relative',
