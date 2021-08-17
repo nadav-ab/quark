@@ -33,7 +33,7 @@ export default {
 		"grey": "#6F839F",
 		"greyD1": "#637897",
 		"greyD2": "#586D8E",
-		"light": "#F7FBFF",
+		"light": "#6ca8e3",
 		"lightD1": "#EDF2F6",
 		"lightD2": "#E4E8EC",
 		"green": "#00875A",
